@@ -1,5 +1,7 @@
 package Contain_hello_or_not;
 
+import java.util.Scanner;
+
 /**
  * Created by IntelliJ IDEA.
  * User: Abhinav Bhardwaj
